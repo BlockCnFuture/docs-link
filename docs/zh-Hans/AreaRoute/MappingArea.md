@@ -31,7 +31,7 @@ sidebar_position: 1
 ![](/img/AreaRoute/MappingArea/image-3.gif)
 
 #### 6. 移动顶点
-鼠标左键按下![](/img/AreaRoute/MappingArea/image-4.png)顶点后移动鼠标，可修改顶点位置，到指定位置后，松开鼠标，完成移动
+鼠标左键按下![](/img/AreaRoute/MappingArea/image-3.png)顶点后移动鼠标，可修改顶点位置，到指定位置后，松开鼠标，完成移动
 
 ![](/img/AreaRoute/MappingArea/image-4.gif)
 
@@ -44,11 +44,11 @@ sidebar_position: 1
 ![](/img/AreaRoute/MappingArea/image-5.gif)
 
 #### b. 旋转测区
-Ctrl+鼠标左键按下![](/img/AreaRoute/MappingArea/image-6.png)按钮后移动鼠标，可整体旋转测区，转动到指定位置后，松开鼠标，完成旋转
+Ctrl+鼠标左键按下![](/img/AreaRoute/MappingArea/image-5.png)按钮后移动鼠标，可整体旋转测区，转动到指定位置后，松开鼠标，完成旋转
 
 ![](/img/AreaRoute/MappingArea/image-6.gif)
 
 #### c. 缩放测区
-Ctrl+鼠标左键按下![](/img/AreaRoute/MappingArea/image-4.png)按钮后移动鼠标，可整体缩放测区，转动到指定位置后，松开鼠标，完成缩放
+Ctrl+鼠标左键按下![](/img/AreaRoute/MappingArea/image-3.png)按钮后移动鼠标，可整体缩放测区，转动到指定位置后，松开鼠标，完成缩放
 
 ![](/img/AreaRoute/MappingArea/image-7.gif)
