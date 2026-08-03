@@ -5,6 +5,8 @@ sidebar_position: 25
 
 带状航线可设置测区相对中心线的外扩距离
 
+带状航线点击![](/img/SharedSets/LRExtend/3.png)按钮可翻转中心线，对调左右方向
+
 ![](/img/SharedSets/LRExtend/1.png)
 
 此处设置按弓字航线规划，还是按单航线规划
