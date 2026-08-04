@@ -52,3 +52,8 @@ Ctrl+鼠标左键按下![](/img/StripRoute/StripArea/3.png)按钮后移动鼠标
 Ctrl+鼠标左键按下![](/img/StripRoute/StripArea/2.png)按钮后移动鼠标，可整体缩放测区，转动到指定位置后，松开鼠标，完成缩放
 
 ![](/img/StripRoute/StripArea/7.gif)
+
+### 仿地
+本航线类型支持仿地，见 [相对地形高](../SharedSets/Height#_3-相对地形高)
+
+其他参数见 公共设置 章节

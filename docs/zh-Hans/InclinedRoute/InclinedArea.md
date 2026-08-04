@@ -52,3 +52,5 @@ sidebar_position: 1
 Ctrl+鼠标左键按下![](/img/InclinedRoute/InclinedArea/3.png)按钮后移动鼠标，可整体缩放测区，转动到指定位置后，松开鼠标，完成缩放
 
 ![](/img/InclinedRoute/InclinedArea/7.gif)
+
+其他参数见 公共设置 章节
