@@ -36,7 +36,7 @@ sidebar_position: 1
 ![](/img/InclinedRoute/InclinedArea/4.gif)
 
 ### 7. 测区平移、旋转、缩放
-标左键点击测区，使测区进入激活态
+鼠标左键点击测区，使测区进入激活态
 
 #### a. 平移测区
 鼠标左键按下方向轴![](/img/InclinedRoute/InclinedArea/4.png)后移动鼠标，可整体平移测区，到指定位置后，松开鼠标，完成平移
@@ -52,3 +52,5 @@ sidebar_position: 1
 Ctrl+鼠标左键按下![](/img/InclinedRoute/InclinedArea/3.png)按钮后移动鼠标，可整体缩放测区，转动到指定位置后，松开鼠标，完成缩放
 
 ![](/img/InclinedRoute/InclinedArea/7.gif)
+
+其他参数见 公共设置 章节
