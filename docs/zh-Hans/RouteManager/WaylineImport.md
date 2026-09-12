@@ -5,6 +5,8 @@ sidebar_position: 2
 
 ![](/img/RouteManager/WaylineImport/0.png)
 
+航线导入入口见 [界面介绍](./Interface.md)
+
 ### 1. 本地导入
 点击此区域可从本地多选导入大疆标准kmz航线；将kmz航线拖入该区域，也可导入
 

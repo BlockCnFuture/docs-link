@@ -13,6 +13,7 @@ sidebar_position: 1
 | **3** | **支持导出航线Kmz、航迹Kml、航线测区Kml到本地/遥控器/移动设备/U盘** |
 | **4** | **支持从本地/DJI Pilot/DJI Fly导入标准Kmz航线、预览、编辑** |
 | **5** | **支持叠加本地 Mipmap Desktop/第三方 的dom/pnts/b3dm tiles、geotiff到场景内** |
+| **6** | **支持航线飞行仿真、仿真视频录制** |
 
 
 ### 支持设备清单
