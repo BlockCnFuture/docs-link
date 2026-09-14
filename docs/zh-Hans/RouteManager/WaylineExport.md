@@ -4,29 +4,30 @@ sidebar_position: 4
 ---
 ![](/img/RouteManager/WaylineExport/image-1.png)
 
+航线操作入口见 [界面介绍](./Interface.md)  
 软件可将航线导出至本地或Dji Fly/移动存储，导出内容为航线kmz文件，若是本地导出，导出内容还包含航线测区kml、未插值飞行轨迹kml
 
-### 航线拆分
+### 1. 航线拆分
 ![](/img/RouteManager/WaylineExport/image-3.png)
 
 启用航线拆分时，程序会导出多个航线kmz文件，并通过一系列算法确保各个子航线的飞行姿态、录像任务等与原始单航线保持一致
 
-### 导出航线至移动设备
+### 2. 导出航线至移动设备
 ![](/img/RouteManager/WaylineExport/image-4.png)
 
 在航线导出面板设置好分割参数后，点击此处，可跳转至航线快捷导出至移动设备面板
 
-### 普通移动设备（未安装DJI Fly / DJI Pilot）
+### 3. 普通移动设备（未安装DJI Fly / DJI Pilot）
 ![](/img/RouteManager/WaylineExport/image-5.png)
 
 对于普通设备，软件可自动将航线 / 航线切片导出至 内部存储 或 内部存储/Download
 
-### DJI Pilot
+### 4. DJI Pilot
 DJI Pilot有航线导入功能，因此使用软件直接导出到 内部存储/Download 或者手动复制转移即可，而后在DJI Pilot内导入航线
 
-### DJI Fly
+### 5. DJI Fly
 
-#### 自动替换
+#### 1. 自动替换
 DJI Fly 没有航线导入功能，只能通过替换原有航线，实现“导入”的效果，软件提供了快捷替换导出的功能（仅支持DJI RC或安卓设备）
 
 ![](/img/RouteManager/WaylineExport/image-7.png)
@@ -39,7 +40,7 @@ DJI Fly航线列表可能存在缩略图缓存，为确保后续正确辨认航�
 在DJI Fly航线列表找到被替换的航线，重命名航线并保存，即可刷新缩略图缓存
 :::
 
-#### 手动替换
+#### 2. 手动替换
 当设备无法识别，或设备为ios时，需要手动替换实现航线导入，将设备通过USB与电脑连接，通过资源管理器，前往 DJI Fly 航线存储路径，进行航线替换，如安卓设备：
 
 ![](/img/RouteManager/WaylineExport/image-8.png)

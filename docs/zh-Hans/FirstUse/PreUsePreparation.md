@@ -11,7 +11,7 @@ sidebar_position: 2
 
 ![](/img/FirstUse/PreUsePreparation/image-1.png)
 
-登录后若检测到账未绑定有效的软件许可，会弹出许可列表，选择可用许可，即可激活软件。
+若已购买许可，可点击![](/img/FirstUse/PreUsePreparation/image-5.png)，会弹出许可列表，选择可用许可，即可激活软件。
 
 ![](/img/FirstUse/PreUsePreparation/image-2.png)
 

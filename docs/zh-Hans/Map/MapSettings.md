@@ -4,6 +4,10 @@ sidebar_position: 2
 ---
 ![](/img/Map/MapSettings/image-0.png)
 
+![](/img/Map/MapSettings/image-15.png)
+
+地图右上角、右下角存在一些设置
+
 ### 1. 定向罗盘
 ![](/img/Map/MapSettings/image-1.png)罗盘会实时指示地图方位；鼠标左键点击罗盘可快速将地图旋转至正北方向
 
@@ -45,7 +49,15 @@ sidebar_position: 2
 
 ![](/img/Map/MapSettings/image-13.png)
 
+### 6. 地名搜索
+鼠标左键单击![](/img/Map/MapSettings/image-16.png)可搜索地名并快速定位到目标
+
+![](/img/Map/MapSettings/image-17.png)
 
 
+### 7. 相机跟随设置
+鼠标左键单击![](/img/Map/MapSettings/image-18.png)可修改相机跟随模式，相机跟随在航点编辑、飞行仿真时生效
+
+![](/img/Map/MapSettings/image-19.png)
 
 

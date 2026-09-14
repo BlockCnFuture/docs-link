@@ -18,12 +18,16 @@ sidebar_position: 1
 ![](/img/StripRoute/StripArea/1.gif)
 
 ### 3. 编辑中心线顶点
-鼠标左键点击中心线，使测区进入激活态
+鼠标左键点击中心线，使测区进入激活态，ESC退出激活态
 
 #### 4. 新增顶点
 点击![](/img/StripRoute/StripArea/1.png)按钮可在按钮处添加新顶点
 
 ![](/img/StripRoute/StripArea/2.gif)
+
+也可直接点击地图目标位置，将在中心线末尾添加新顶点
+
+![](/img/StripRoute/StripArea/8.gif)
 
 #### 5. 删除顶点
 ![](/img/StripRoute/StripArea/2.png)在顶点处右键可删除此顶点
