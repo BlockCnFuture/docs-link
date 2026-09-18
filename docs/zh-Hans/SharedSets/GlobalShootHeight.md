@@ -3,7 +3,7 @@ title: "被摄面高度"
 sidebar_position: 13
 ---
 
-![](/img/SharedSets/GlobalShootHeight/0.png)
+![](/img/cn-img/SharedSets/GlobalShootHeight/0.png)
 
 对于对地拍摄的航线，未使用仿地时，需要设置一个被摄面，被摄面海拔高默认为创建航线时首次设置的相对起飞点海拔高
 
@@ -11,7 +11,7 @@ sidebar_position: 13
 
 确认被摄面后，才能确认GSD，进而确认航线规划方案
 
-![](/img/SharedSets/GlobalShootHeight/1.png)
+![](/img/cn-img/SharedSets/GlobalShootHeight/1.png)
 
 测区在地图上显示为半透明蓝色，而被摄面在地图上显示为半透明淡黄色平面
 

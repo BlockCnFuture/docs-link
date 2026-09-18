@@ -3,7 +3,7 @@ title: "全局过渡速度"
 sidebar_position: 11
 ---
 
-![](/img/SharedSets/GlobalTransitionSpeed/0.png)
+![](/img/cn-img/SharedSets/GlobalTransitionSpeed/0.png)
 
 对于航点航线，此设置项代表飞行器起飞到第一个航点时的速度，即起飞速度
 

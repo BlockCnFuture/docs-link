@@ -2,7 +2,7 @@
 title: "地图信息"
 sidebar_position: 3
 ---
-![](/img/Map/MapInfo/image-0.png)
+![](/img/cn-img/Map/MapInfo/image-0.png)
 
 地图底部会显示一些信息
 
@@ -15,7 +15,7 @@ sidebar_position: 3
 ### 3. 地图比例尺
 此处指示地图场景底部中央多少像素宽度代表地理多少米，小尺度场景内该比例尺也适用于地图场景上边缘
 
-![](/img/Map/MapInfo/image-1.png)
+![](/img/cn-img/Map/MapInfo/image-1.png)
 
 ### 4. 鼠标光标位置海拔高
 此处实时显示当前鼠标光标位置的海拔高（EGM96），同时考虑地形、模型、瓦片，当光标处无实体时，该数据将保持为最后一次更新的值

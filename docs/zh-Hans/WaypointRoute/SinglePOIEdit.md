@@ -9,16 +9,16 @@ sidebar_position: 13
 
 在激活态下，Alt+鼠标左键按下兴趣点，再移动鼠标，即可调整航点的高程，鼠标左键松开时完成编辑
 
-![](/img/WaypointRoute/SinglePOIEdit/image-0.gif)
+![](/img/cn-img/WaypointRoute/SinglePOIEdit/image-0.gif)
 
 ### 2. 兴趣点右键菜单
 在左侧面板选中某个兴趣点后右键
 
-![](/img/WaypointRoute/SinglePOIEdit/image-0.png)
+![](/img/cn-img/WaypointRoute/SinglePOIEdit/image-0.png)
 
 可删除兴趣点、将兴趣点快速应用到所有航点等
 
-![](/img/WaypointRoute/SinglePOIEdit/image-1.png)
+![](/img/cn-img/WaypointRoute/SinglePOIEdit/image-1.png)
 
 下方列表为航点列表，点击后可使指定航点应用此兴趣点
 

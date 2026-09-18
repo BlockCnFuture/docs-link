@@ -10,7 +10,7 @@ sidebar_position: 16
 飞行器原生并不支持俯仰角朝向兴趣点的功能，因此并不保证俯仰角可始终正确看向兴趣点  
 实现原理为：在航点A处计算pitch角A，在航点B处计算pitch角B，而后从pitch角A均匀转动到pitch角B
 
-![](/img/WaypointRoute/GimbalPitchTowardPOI/image-2.gif)
+![](/img/cn-img/WaypointRoute/GimbalPitchTowardPOI/image-2.gif)
 
 :::tip
 **若当前选中了某个动作，飞行器预览将优先显示执行到此动作时的状态，若未选中动作，才会显示飞行器飞离航点时的状态**

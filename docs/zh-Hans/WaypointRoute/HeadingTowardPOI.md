@@ -6,7 +6,7 @@ sidebar_position: 15
 
 若下一个航点的机头朝向也设置为朝向同一个兴趣点，则飞行器在当前航点到下一个航点的航段间，机头朝向将均匀旋转并始终朝向兴趣点
 
-![](/img/WaypointRoute/HeadingTowardPOI/image-1.gif)
+![](/img/cn-img/WaypointRoute/HeadingTowardPOI/image-1.gif)
 
 :::tip
 **若当前选中了某个动作，飞行器预览将优先显示执行到此动作时的状态，若未选中动作，才会显示飞行器飞入/飞离航点时的状态**

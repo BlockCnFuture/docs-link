@@ -3,7 +3,7 @@ title: "航线导入"
 sidebar_position: 2
 ---
 
-![](/img/RouteManager/WaylineImport/0.png)
+![](/img/cn-img/RouteManager/WaylineImport/0.png)
 
 航线导入入口见 [界面介绍](./Interface.md)
 
@@ -13,7 +13,7 @@ sidebar_position: 2
 ### 2. 外部导入
 点击此处后弹出外部导入面板，软件将自动读取已连接的USB设备，可读取DJI Fly/DJI Pilot内的航线列表并进行导入，该功能不支持IOS设备
 
-![](/img/RouteManager/WaylineImport/1.png)
+![](/img/cn-img/RouteManager/WaylineImport/1.png)
 
 #### 1. 设备列表
 此处显示通过USB连接电脑的设备列表，可手动切换设备读取航线数据

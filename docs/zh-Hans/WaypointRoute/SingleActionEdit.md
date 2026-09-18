@@ -7,19 +7,19 @@ sidebar_position: 7
 
 动作位置只可在同一个航点内相互调整
 
-![](/img/WaypointRoute/SingleActionEdit/image-0.gif)
+![](/img/cn-img/WaypointRoute/SingleActionEdit/image-0.gif)
 
 ### 2. 删除动作
 鼠标右键单击动作，即可在右键菜单内删除动作
 
-![](/img/WaypointRoute/SingleActionEdit/image-1.gif)
+![](/img/cn-img/WaypointRoute/SingleActionEdit/image-1.gif)
 
 ### 3. 编辑动作参数
-![](/img/WaypointRoute/SingleActionEdit/image-0.png)
+![](/img/cn-img/WaypointRoute/SingleActionEdit/image-0.png)
 
-鼠标左键选中动作后，可在右侧"动作"![](/img/WaypointRoute/SingleActionEdit/image-1.png)面板编辑动作参数
+鼠标左键选中动作后，可在右侧"动作"![](/img/cn-img/WaypointRoute/SingleActionEdit/image-1.png)面板编辑动作参数
 
 
 
-![](/img/WaypointRoute/SingleActionEdit/image-2.png)
+![](/img/cn-img/WaypointRoute/SingleActionEdit/image-2.png)
 
