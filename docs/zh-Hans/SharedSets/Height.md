@@ -3,7 +3,7 @@ title: "飞行高度"
 sidebar_position: 6
 ---
 
-![](/img/SharedSets/Height/0.png)
+![](/img/cn-img/SharedSets/Height/0.png)
 
 :::warning
 对于消费级无人机，无论选什么高度模式，程序最终都会自动转换为 ***相对起飞点高***
@@ -25,7 +25,7 @@ sidebar_position: 6
 比如设置相对地形高100米，航点A处地面海拔高是20米，则A处飞行器的飞行高度是120（100+20）米；航点B处地面海拔高是60米，则B处飞行器的飞行高度是160（100+60）米；
 
 #### a. 地形参考
-![](/img/SharedSets/Height/1.png)
+![](/img/cn-img/SharedSets/Height/1.png)
 
 若航线类型不是航点航线，则需要设置地形参考
 

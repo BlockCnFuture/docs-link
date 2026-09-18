@@ -18,7 +18,7 @@ type LocaleSpec = {
 };
 
 const localeSpecs: Record<string, LocaleSpec> = {
-  //root: {label: "English", lang: "en-US", path: "/en/", outlineTitle: "On this page"},
+  root: {label: "English", lang: "en-US", path: "/en/", outlineTitle: "On this page"},
   'zh-Hans': {label: "简体中文", lang: "zh-CN", path: "/zh-Hans/", outlineTitle: "本页导航"},
 };
 

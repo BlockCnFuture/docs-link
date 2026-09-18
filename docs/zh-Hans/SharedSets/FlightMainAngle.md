@@ -3,9 +3,9 @@ title: "主航线角度"
 sidebar_position: 9
 ---
 
-![](/img/SharedSets/FlightMainAngle/0.png)
+![](/img/cn-img/SharedSets/FlightMainAngle/0.png)
 
-![](/img/SharedSets/FlightMainAngle/1.png)
+![](/img/cn-img/SharedSets/FlightMainAngle/1.png)
 
 此处设置自动生成航线时，航线航向/圆环延伸的方向，以正北为0
 

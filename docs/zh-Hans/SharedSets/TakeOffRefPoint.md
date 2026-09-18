@@ -3,7 +3,7 @@ title: "参考起飞点"
 sidebar_position: 1
 ---
 
-![](/img/SharedSets/TakeOffRefPoint/0.png)
+![](/img/cn-img/SharedSets/TakeOffRefPoint/0.png)
 
 必须设置参考起飞点才能绘制测区、调整GSD等
 
@@ -23,4 +23,4 @@ sidebar_position: 1
 
 在激活态下，Alt+鼠标左键按下相对起飞点，再移动鼠标，即可调整相对起飞点的高程，鼠标左键松开时完成编辑
 
-![](/img/SharedSets/TakeOffRefPoint/0.gif)
+![](/img/cn-img/SharedSets/TakeOffRefPoint/0.gif)

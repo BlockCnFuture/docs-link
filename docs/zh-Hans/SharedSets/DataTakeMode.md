@@ -3,7 +3,7 @@ title: "数据采集方式"
 sidebar_position: 17
 ---
 
-![](/img/SharedSets/DataTakeMode/0.png)
+![](/img/cn-img/SharedSets/DataTakeMode/0.png)
 
 软件支持三种数据采集方式：等时间隔拍照、等距间隔拍照、录制视频
 

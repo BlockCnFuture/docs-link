@@ -3,7 +3,7 @@ title: "航线速度"
 sidebar_position: 8
 ---
 
-![](/img/SharedSets/PointSpeed/0.png)
+![](/img/cn-img/SharedSets/PointSpeed/0.png)
 
 此处设置航线速度，在航点航线内又称全局航线速度，表示飞行器在航线上每个航点间过渡时，使用什么飞行速度
 

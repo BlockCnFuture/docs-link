@@ -3,7 +3,7 @@ title: "安全起飞高度"
 sidebar_position: 7
 ---
 
-![](/img/SharedSets/FlysafeHeight/0.png)
+![](/img/cn-img/SharedSets/FlysafeHeight/0.png)
 
 此设置仅对行业级无人机有效，消费级无人机无此设置项
 

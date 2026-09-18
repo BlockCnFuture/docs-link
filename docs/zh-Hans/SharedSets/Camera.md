@@ -8,12 +8,12 @@ sidebar_position: 4
 :::
 
 ### 1. 行业级机型
-![](/img/SharedSets/Camera/0.png)
+![](/img/cn-img/SharedSets/Camera/0.png)
 
 行业级无人机可设置航线执行过程中使用哪些镜头拍摄照片，选中多个时，执行航线中将拍摄多个镜头的照片
 
 ### 2. 消费级机型
-![](/img/SharedSets/Camera/1.png)
+![](/img/cn-img/SharedSets/Camera/1.png)
 
 消费级无人机无法设置航线执行过程中的镜头，也无法多选，此处选择镜头是为了计算可用的最大速度上限
 

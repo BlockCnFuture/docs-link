@@ -3,7 +3,7 @@ title: "旁向重叠率"
 sidebar_position: 14
 ---
 
-![](/img/SharedSets/OverlapW/0.png)
+![](/img/cn-img/SharedSets/OverlapW/0.png)
 
 此处可设置航线规划时的旁向重叠率，当航线包含倾斜与正射两种子航线时，可分别设置
 

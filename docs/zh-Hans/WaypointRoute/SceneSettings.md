@@ -3,11 +3,11 @@ title: "场景设置"
 sidebar_position: 1
 ---
 
-![](/img/WaypointRoute/SceneSettings/image-0.png)
+![](/img/cn-img/WaypointRoute/SceneSettings/image-0.png)
 
-点击![](/img/WaypointRoute/SceneSettings/image-1.png)按钮可对场景进行部分设置
+点击![](/img/cn-img/WaypointRoute/SceneSettings/image-1.png)按钮可对场景进行部分设置
 
-![](/img/WaypointRoute/SceneSettings/image-2.png)
+![](/img/cn-img/WaypointRoute/SceneSettings/image-2.png)
 
 ### 1. 虚拟飞行速度
 此处可设置编辑航点时，虚拟飞行器飞行时使用高速（50m/s）还是低速（10m/s），低速适合模拟查看模型在无人机视角下的画面，航点航线编辑页场景内，可使用快捷键X来快速切换飞行速度

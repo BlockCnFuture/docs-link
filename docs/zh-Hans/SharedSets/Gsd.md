@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 ### GSD
-![](/img/SharedSets/Gsd/0.png)
+![](/img/cn-img/SharedSets/Gsd/0.png)
 
 规划航线时，程序将计算当前航线的GSD（照片内每个像素代表的实际地面距离），可手动调整GSD来影响飞行高度，或手动调整高度来影响GSD
 
