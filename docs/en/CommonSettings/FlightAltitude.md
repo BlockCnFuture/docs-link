@@ -3,7 +3,7 @@ title: "Flight Altitude"
 sidebar_position: 6
 ---
 
-![](/img/en-img/SharedSets/Height/0.png)
+![](/img/en-img/CommonSettings/FlightAltitude/0.png)
 
 :::warning
 For consumer-grade UAVs, regardless of the altitude mode selected, the software will automatically convert it to **relative takeoff altitude**.
@@ -27,7 +27,7 @@ For example, if the relative terrain height is set to 100 m:
 - At waypoint B where the ground elevation is 60 m, the aircraft flies at 160 m (100+60).
 
 #### a. Terrain Reference
-![](/img/en-img/SharedSets/Height/1.png)
+![](/img/en-img/CommonSettings/FlightAltitude/1.png)
 
 If the mission type is not a waypoint mission, terrain reference must be configured.
 
@@ -35,4 +35,4 @@ Terrain reference defines which terrain dataset is used as the baseline for auto
 
 As shown above, after importing terrain data and drawing a survey area on it, select the imported terrain as the terrain reference.
 
-For terrain import instructions, see: [Add Layers](../LayerManager/Interface#_6-add-layers)
+For terrain import instructions, see: [Add Layers](../LayerManager/LayerManager#_6-add-layer)

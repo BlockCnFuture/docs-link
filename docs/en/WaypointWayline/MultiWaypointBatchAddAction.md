@@ -1,18 +1,16 @@
 ---
-title: "多航点批量添加动作"
+title: "Multi Waypoint Batch Add Action"
 sidebar_position: 11
 ---
-在左侧航点列表选中多个航点后，可对多个航点批量添加动作
+Select multiple waypoints in the left waypoint list to batch add actions to them.
 
-![](/img/en-img/WaypointRoute/MultiWaypointBatchAddAction/image-0.png)
+![](/img/en-img/WaypointWayline/MultiWaypointBatchAddAction/image-0.png)
 
-选中右侧面板的![](/img/en-img/WaypointRoute/MultiWaypointBatchAddAction/image-1.png)后，点击![](/img/en-img/WaypointRoute/MultiWaypointBatchAddAction/image-4.png)项
+Select ![](/img/en-img/WaypointWayline/MultiWaypointBatchAddAction/image-1.png) on the right panel, then click the ![](/img/en-img/WaypointWayline/MultiWaypointBatchAddAction/image-4.png) option.
 
-即可看到动作批量添加面板
+The batch action addition panel will appear.
 
-![](/img/en-img/WaypointRoute/MultiWaypointBatchAddAction/image-2.png)
+![](/img/en-img/WaypointWayline/MultiWaypointBatchAddAction/image-2.png)
 
-
-
-在![](/img/en-img/WaypointRoute/MultiWaypointBatchAddAction/image-3.png)处控制动作应批量添加至被选中航点末尾位置还是起始位置，而后可将动作模板内的所有动作进行批量添加，或选中列表内的动作、设置参数后批量添加
-
+Use the control at ![](/img/en-img/WaypointWayline/MultiWaypointBatchAddAction/image-3.png)
+to specify whether actions are appended to the end or inserted at the start of selected waypoints. You may then batch add all actions from the action template, or select actions in the list, configure parameters, and perform batch addition.

@@ -3,7 +3,7 @@ title: "Side Overlap"
 sidebar_position: 14
 ---
 
-![](/img/en-img/SharedSets/OverlapW/0.png)
+![](/img/en-img/CommonSettings/SideOverlap/0.png)
 
 Set the side overlap for flight mission planning here. If the mission includes both oblique and nadir sub-missions, their side overlap values can be configured separately.
 

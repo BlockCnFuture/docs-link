@@ -1,6 +1,6 @@
 ---
 title: "Account Registration And Login"
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 ### Register an Account
@@ -13,7 +13,7 @@ After installing the software, double-click the desktop shortcut to open the Mip
 >4. Click Register
 >5. Check your email inbox, open the verification email, and follow the link to complete account registration
 
-
+![](/img/en-img/FirstUse/AccountRegistrationAndLogin/image-1.png)
 
 ---
 ### Log In to Your Account
@@ -23,4 +23,6 @@ Enter your email address and password, then click Log In to sign in. If you have
 You may check the boxes for "Remember Password" and "Auto Login" when signing in. Afterwards, the app will skip the login process automatically upon launch.
 
 > [!warning] Only perform this operation on trusted devices to prevent account information leakage.
+
+![](/img/en-img/FirstUse/AccountRegistrationAndLogin/image-0.png)
 

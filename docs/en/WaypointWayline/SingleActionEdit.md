@@ -1,25 +1,24 @@
 ---
-title: "单动作编辑"
+title: "Single Action Edit"
 sidebar_position: 7
 ---
-### 1. 调整动作顺序
-在航点的动作列表内，使用鼠标左键按下动作，而后移动鼠标，到达指定位置后松开鼠标，即可调整动作位置
+### 1. Reorder actions
+Within the action list of a waypoint, press and hold the action with the left mouse button, move the mouse, and release at the target position to adjust the action order.
 
-动作位置只可在同一个航点内相互调整
+Actions can only be reordered within the same waypoint.
 
-![](/img/en-img/WaypointRoute/SingleActionEdit/image-0.gif)
+![](/img/en-img/WaypointWayline/SingleActionEdit/image-0.gif)
 
-### 2. 删除动作
-鼠标右键单击动作，即可在右键菜单内删除动作
+### 2. Delete action
+Right-click the action to delete it via the right-click menu.
 
-![](/img/en-img/WaypointRoute/SingleActionEdit/image-1.gif)
+![](/img/en-img/WaypointWayline/SingleActionEdit/image-1.gif)
 
-### 3. 编辑动作参数
-![](/img/en-img/WaypointRoute/SingleActionEdit/image-0.png)
+### 3. Edit action parameters
+![](/img/en-img/WaypointWayline/SingleActionEdit/image-0.png)
 
-鼠标左键选中动作后，可在右侧"动作"![](/img/en-img/WaypointRoute/SingleActionEdit/image-1.png)面板编辑动作参数
+After selecting an action with the left mouse button, edit the action parameters in the **Action** panel on the right.
 
 
-
-![](/img/en-img/WaypointRoute/SingleActionEdit/image-2.png)
+![](/img/en-img/WaypointWayline/SingleActionEdit/image-2.png)
 

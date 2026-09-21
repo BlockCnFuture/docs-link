@@ -3,7 +3,7 @@ title: "Forward Overlap"
 sidebar_position: 15
 ---
 
-![](/img/en-img/SharedSets/OverlapH/0.png)
+![](/img/en-img/CommonSettings/ForwardOverlap/0.png)
 
 Set the forward overlap for flight mission planning here. If the mission includes both oblique and nadir sub-missions, their forward overlap values can be configured separately.
 

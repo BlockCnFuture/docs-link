@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 ### GSD
-![](/img/en-img/SharedSets/Gsd/0.png)
+![](/img/en-img/CommonSettings/Gsd/0.png)
 
 When planning flight missions, the software calculates the GSD of the current mission (the actual ground distance represented by each pixel in the photo). You can manually adjust the GSD to change the flight altitude, or manually adjust the altitude to change the GSD.
 

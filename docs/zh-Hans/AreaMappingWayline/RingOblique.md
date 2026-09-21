@@ -1,0 +1,22 @@
+---
+title: "环绕倾斜航线"
+sidebar_position: 6
+---
+
+### 环绕倾斜
+在面状航线中，采集模式选择"倾斜采集"，并将倾斜模式设置为"环绕倾斜"
+
+![](/img/cn-img/AreaMappingWayline/RingOblique/0.png)
+
+### 环绕倾斜作业模式
+环绕倾斜不可手动设置重叠度，不过在高级设置中，可设置环绕倾斜作业模式，不同作业模式下照片的重叠度各不相同
+
+![](/img/cn-img/AreaMappingWayline/RingOblique/1.png)
+
+### 仿地
+本航线类型支持仿地，见 [相对地形高](../CommonSettings/FlightAltitude#_3-相对地形高).
+其他参数见 公共设置 章节
+
+:::tip
+通过调整云台俯仰角度，可影响环绕半径
+:::

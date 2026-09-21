@@ -8,12 +8,12 @@ Different cameras have different image capture speeds, corresponding to differen
 :::
 
 ### 1. Industrial-grade UAV
-![](/img/en-img/SharedSets/Camera/0.png)
+![](/img/en-img/CommonSettings/Camera/0.png)
 
 For industrial drones, you can configure which cameras take photos during mission execution. When multiple cameras are selected, photos will be captured by all selected cameras along the flight path.
 
 ### 2. Consumer-grade UAV
-![](/img/en-img/SharedSets/Camera/1.png)
+![](/img/en-img/CommonSettings/Camera/1.png)
 
 Consumer drones do not support camera selection during mission execution, and multiple cameras cannot be selected. The camera chosen here is only used to calculate the available maximum flight speed limit.
 

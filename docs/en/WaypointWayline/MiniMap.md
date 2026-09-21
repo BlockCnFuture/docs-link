@@ -1,59 +1,54 @@
 ---
-title: "小地图"
+title: "Mini Map"
 sidebar_position: 3
 ---
-![](/img/en-img/WaypointRoute/MiniMap/image-0.png)
+![](/img/en-img/WaypointWayline/MiniMap/image-0.png)
 
+### 1. Map Controls
+The mini map displays the virtual aircraft's camera view by default.
 
+#### a. Gimbal Yaw and Pitch Angle
+Hold down the left mouse button and drag horizontally to adjust the gimbal yaw angle of the virtual aircraft; drag vertically to adjust the gimbal pitch angle.
 
-### 1. 地图控制
+![](/img/en-img/WaypointWayline/MiniMap/image-0.gif)
 
-小地图默认显示虚拟飞行器的镜头视角画面
+#### b. Zoom Factor
+Use the mouse scroll wheel to adjust the camera zoom factor of the virtual aircraft.
 
-#### a. 云台偏航俯仰角度
-鼠标左键按下后左右移动可修改虚拟飞行器的云台偏航角、上下移动可修改虚拟飞行器的云台俯仰角
+![](/img/en-img/WaypointWayline/MiniMap/image-1.gif)
 
-![](/img/en-img/WaypointRoute/MiniMap/image-0.gif)
+#### c. Gimbal Roll Angle
+If the aircraft model supports gimbal roll adjustment, hold down the right mouse button and drag horizontally to modify the virtual aircraft's gimbal roll angle.
 
+![](/img/en-img/WaypointWayline/MiniMap/image-2.gif)
 
+#### d. Gimbal Look-at Target
+Double-click a position on the mini map, and the virtual aircraft will automatically adjust the gimbal to face the target location.
 
-#### b. 放大倍数
-鼠标滚轮可修改虚拟飞行器的镜头放大倍数
+![](/img/en-img/WaypointWayline/MiniMap/image-4.gif)
 
-![](/img/en-img/WaypointRoute/MiniMap/image-1.gif)
+#### e. View Display Toggle
+Click the ![](/img/en-img/WaypointWayline/MiniMap/image-1.png) button to project the virtual camera view onto the main map.
 
-#### c. 云台横滚角
-若飞行器型号支持修改云台横滚角，鼠标右键按下后左右移动，可修改虚拟飞行器的云台横滚角
+![](/img/en-img/WaypointWayline/MiniMap/image-3.gif)
 
-![](/img/en-img/WaypointRoute/MiniMap/image-2.gif)
+### 2. Camera Preview Switching
+For multi-camera aircraft models, the mini map supports preview of different cameras.
 
-#### d. 云台看向目标点
-在小地图双击某个位置，虚拟飞行器将自动调整云台，看向目标位置
+![](/img/en-img/WaypointWayline/MiniMap/image-2.png)
 
-![](/img/en-img/WaypointRoute/MiniMap/image-4.gif)
+Click the button to switch camera previews.
 
-#### e. 显示位置切换
-按下![](/img/en-img/WaypointRoute/MiniMap/image-1.png)可将虚拟镜头视角显示到主地图
+### 3. Capture Coverage Preview
+![](/img/en-img/WaypointWayline/MiniMap/image-3.png)
 
-![](/img/en-img/WaypointRoute/MiniMap/image-3.gif)
+1. Capture coverage preview for the active camera (wide-angle camera)
+2. Capture coverage preview for zoom camera, marked with a rectangle. A prompt will appear if the current zoom level uses digital zoom instead of optical zoom.
+3. Capture coverage preview for infrared (IR) camera, marked with a rectangle.
+4. Capture center: indicates the capture center point and the straight-line distance from the camera to the capture center (terrain and model considered). This distance is for reference only.
 
-### 2. 镜头预览切换
-对于多镜头机型，小地图支持不同镜头的预览
+### 4. Video Recording
+![](/img/en-img/WaypointWayline/MiniMap/image-4.png)
 
-![](/img/en-img/WaypointRoute/MiniMap/image-2.png)
-
-点击按钮即可切换镜头预览
-
-### 3. 拍摄范围预览
-![](/img/en-img/WaypointRoute/MiniMap/image-3.png)
-
-1. 当前镜头（广角镜头）拍摄范围预览
-2. 红外（IR）镜头拍摄范围预览，使用矩形标出
-3. 变焦镜头拍摄范围预览，使用矩形标出，若当前缩放倍数为数字变焦而非光学变焦，则会给出提醒
-4. 拍摄中心，指示拍摄中心以及镜头距离拍摄中心的直线距离（考虑地形、模型），该距离仅供参考
-
-### 4. 视频录制
-![](/img/en-img/WaypointRoute/MiniMap/image-4.png)
-
-当虚拟镜头视角位于主地图时，可对虚拟镜头画面进行视频录制，软件将输出视频及SRT字幕文件  
-录制视频时，请勿将软件最小化，否则视频帧率可能会严重下降
+When the virtual camera view is displayed on the main map, you can record the virtual camera feed. The software exports a video file together with an SRT subtitle file.
+Do not minimize the software during recording, otherwise the video frame rate may drop significantly.

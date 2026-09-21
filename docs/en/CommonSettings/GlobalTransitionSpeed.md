@@ -3,7 +3,7 @@ title: "Global Transition Speed"
 sidebar_position: 11
 ---
 
-![](/img/en-img/SharedSets/GlobalTransitionSpeed/0.png)
+![](/img/en-img/CommonSettings/GlobalTransitionSpeed/0.png)
 
 For waypoint missions, this setting defines the aircraft speed from takeoff to the first waypoint, i.e., takeoff speed.
 

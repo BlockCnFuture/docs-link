@@ -3,7 +3,7 @@ title: "Safe Takeoff Height"
 sidebar_position: 7
 ---
 
-![](/img/en-img/SharedSets/FlysafeHeight/0.png)
+![](/img/en-img/CommonSettings/SafeTakeoffHeight/0.png)
 
 This setting applies only to industrial drones and is not available for consumer drones.
 

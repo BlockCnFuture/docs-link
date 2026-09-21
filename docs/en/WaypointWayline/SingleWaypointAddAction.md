@@ -1,39 +1,30 @@
 ---
-title: "单航点添加动作"
+title: "Single Waypoint Add Action"
 sidebar_position: 5
 ---
-在非批量添加模式下，所有动作的添加均基于虚拟飞行器位置
+In non-batch add mode, all actions are added based on the virtual aircraft position.
 
-### 1. 给现有航点添加动作
-在左侧航点列表左键选中单个航点后可将飞行器快速移动到航点位置，而后可对航点添加动作
+### 1. Add actions to existing waypoints
+Select a single waypoint in the left waypoint list with the left mouse button to quickly move the aircraft to the waypoint position, then you can add actions to the waypoint.
 
-点击动作面板内的动作，可在当前航点末尾添加指定动作
+Click an action in the action panel to append the selected action at the end of the current waypoint.
 
-![](/img/en-img/WaypointRoute/SingleWaypointAddAction/image-0.gif)
+![](/img/en-img/WaypointWayline/SingleWaypointAddAction/image-0.gif)
 
+Hold Shift and click an action in the action panel to insert the selected action after the currently selected action within the current waypoint.
 
+![](/img/en-img/WaypointWayline/SingleWaypointAddAction/image-1.gif)
 
-按住Shift+点击动作面板内的动作，可在当前航点内被选中的动作后添加指定动作
+### 2. Add actions at specified positions
+Action addition relies on the virtual aircraft position. Fly the virtual aircraft to the target position, then click an action in the action panel to quickly add a waypoint together with the action.
 
-![](/img/en-img/WaypointRoute/SingleWaypointAddAction/image-1.gif)
+![](/img/en-img/WaypointWayline/SingleWaypointAddAction/image-2.gif)
 
+Hold Shift and click an action in the action panel to also quickly add a waypoint and its action. The new waypoint will be inserted after the currently selected waypoint (e.g. Waypoint 3), and its parameters will be identical to Waypoint 3.
 
+![](/img/en-img/WaypointWayline/SingleWaypointAddAction/image-3.gif)
 
-### 2. 在指定位置添加动作
-动作添加基于虚拟飞行器位置，可将虚拟飞行器飞行到指定位置，而后点击动作面板内的动作，即可快速完成航点添加+动作添加
+### 3. Apply action template to waypoint
+Right-click a waypoint with existing actions, and copy all its actions as a template from the right-click menu. You may then apply this template to other waypoints via the right-click menu.
 
-![](/img/en-img/WaypointRoute/SingleWaypointAddAction/image-2.gif)
-
-
-
-按下Shift+点击动作面板内的动作也可快速完成航点添加+动作添加，但此时航点将添加至当前被选中航点（如3号航点）后，且新航点参数将与3号航点参数一致
-
-![](/img/en-img/WaypointRoute/SingleWaypointAddAction/image-3.gif)
-
-
-
-### 3. 给航点应用动作模板
-在存在动作的航点右键，可在右键菜单内复制航点的所有动作为模板，而后可通过右键菜单将模板应用给其他航点
-
-![](/img/en-img/WaypointRoute/SingleWaypointAddAction/image-4.gif)
-
+![](/img/en-img/WaypointWayline/SingleWaypointAddAction/image-4.gif)
