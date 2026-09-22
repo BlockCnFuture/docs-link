@@ -3,7 +3,7 @@ title: "Main Heading Angle"
 sidebar_position: 9
 ---
 
-![](/img/en-img/SharedSets/FlightMainAngle/0.png)
+![](/img/en-img/CommonSettings/MainHeadingAngle/0.png)
 
 Set the direction of flight headings or ring extension when flight paths are auto-generated. North is defined as 0°.
 

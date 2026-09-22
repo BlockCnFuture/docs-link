@@ -1,42 +1,37 @@
 ---
-title: "单航点编辑"
+title: "Single Waypoint Edit"
 sidebar_position: 6
 ---
-### 1. 参数精细化编辑
-![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-0.png)
+### 1. Fine-grained parameter editing
+![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-0.png)
 
-在左侧面板点击[1]处![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-1.png)按钮即可查看航点列表，在航点列表[2]处选中一个航点，而后在[3]处选中"航点"![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-7.png)，即可看到航点当前的参数
+Click the button at [1] ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-1.png) on the left panel to open the waypoint list. Select a waypoint at [2] in the waypoint list, then select **Waypoint** at [3] ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-7.png) to view the current parameters of the waypoint.
 
+Waypoint parameters follow global settings by default. You can also configure parameters independently. Before independent configuration, click the button ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-2.png) of the parameter to disable follow global ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-8.png), then you can set parameters separately. Click the button ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-8.png) again to enable follow global ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-2.png), and the parameter will automatically update to keep consistent with global settings.
 
+### 2. Rough update of waypoint position
+Waypoints support translation and height adjustment. Click the waypoint on the map with the left mouse button to select and activate it.
 
-航点参数默认与全局保持一致，也可单独设置参数，单独设置参数前，需要点击参数的![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-2.png)按钮取消参数全局跟随![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-8.png)，而后即可单独设置参数；重新点击![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-9.png)按钮可恢复全局跟随![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-2.png)，参数将自动修改，与全局保持一致
+When activated, press and hold the waypoint with the left mouse button and move the mouse to translate the waypoint. Release the left mouse button to finish editing.
 
+When activated, hold Alt + left mouse button on the waypoint and move the mouse to adjust the waypoint elevation. Release the left mouse button to finish editing.
 
+![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-0.gif)
 
-### 2. 航点位置粗略更新
-航点支持平移、调整高度，在地图上使用鼠标左建点击航点，以此选中并激活航点
+### 3. Waypoint right-click menu
+Select a waypoint in the left panel, then right-click.
 
-在激活态下，鼠标左键按下航点，再移动鼠标，即可平移航点，鼠标左键松开时完成编辑
+![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-3.png)
 
-在激活态下，Alt+鼠标左键按下航点，再移动鼠标，即可调整航点的高程，鼠标左键松开时完成编辑
+You can delete the waypoint, quickly clear actions on the waypoint, copy the waypoint's action list as a template, or set the waypoint as a no-RTH waypoint.
 
-![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-0.gif)
+After copying the action template, you can apply the template to other waypoints via the right-click menu.
 
-### 3. 航点右键菜单
-在左侧面板选中某个航点后右键
+![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-4.png)
 
-![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-3.png)
+### 4. Swap waypoint positions
 
-可删除航点、快速清空航点上的动作、将航点的动作列表复制为模板、将航点设置为禁止返航点
+In the left waypoint list, press and hold the waypoint icon ![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-6.png) with the left mouse button, drag the waypoint up or down, and release the mouse at the target waypoint to swap the positions of the two waypoints.
 
-动作模板复制后，可通过右键菜单将动作模板应用给其他航点
-
-![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-4.png)
-
-### 4. 航点位置交换
-![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-5.png)
-
-在左侧航点列表，鼠标左键按下航点图标![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-6.png)，而后上下拖拽航点，到达目标航点后松开鼠标，即可交换两个航点的位置
-
-![](/img/en-img/WaypointRoute/SingleWaypointEdit/image-1.gif)
+![](/img/en-img/WaypointWayline/SingleWaypointEdit/image-1.gif)
 

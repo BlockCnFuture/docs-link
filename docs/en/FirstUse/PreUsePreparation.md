@@ -1,26 +1,28 @@
 ---
 title: "Pre-Use Preparation"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-Before using the software, you need to activate it and complete necessary preference settings. Click the settings icon in the upper-right corner of the software to open the settings panel.
+### Experience Data Collection Authorization
 
-![](/img/en-img/FirstUse/PreUsePreparation/image-0.png)
+An **Allow experience data collection?** pops up on the first launch of the software, to confirm whether to collect anonymous usage data for improving the stability of the wayline planning software.
+You may choose to allow or deny data collection.
 
-### Software Activation
-Go to `<License Management>`, enter your activation key (in the format XXXX-XXXX-XXXX-XXXX) to activate the software. Note: If you plan to reinstall your operating system, be sure to unbind the activation key within the software before reinstallation!
+![](/img/en-img/FirstUse/PreUsePreparation/0.png)
 
-![](/img/en-img/FirstUse/PreUsePreparation/image-1.png)
+#### Collected Data
+1. **Usage frequency and feature preferences**
+Used to analyze frequently used functions.
+2. **Wayline processing parameters and result statistics**
+Used to optimize algorithms and wayline generation quality.
 
-If you have already purchased a license, click ![](/img/en-img/FirstUse/PreUsePreparation/image-5.png). A license list will pop up; select an available license to activate the software.
+#### Privacy Notice
+No personally identifiable information or wayline operation content will be collected. All collected data is used solely for product iteration, and data transmission is fully encrypted. Click `Privacy Policy` to view the full privacy policy.
 
-![](/img/en-img/FirstUse/PreUsePreparation/image-2.png)
+### Change Workspace Directory
 
-### Configure Workspace
-The software’s `<Workspace>` defaults to `"C:\Users\{userName}\AppData\Roaming\mipmap-link\workspace"`. This directory stores mission-related data and mission outputs and can be customized as needed.
+![](/img/en-img/FirstUse/PreUsePreparation/1.png)
 
-![](/img/en-img/FirstUse/PreUsePreparation/image-3.png)
+A **Change workspace** appears when the software starts for the first time.
 
-When changing the workspace, you may choose whether to migrate existing mission files. If checked, files from the current workspace will be moved to the new workspace.
-
-![](/img/en-img/FirstUse/PreUsePreparation/image-4.png)
+The default `Workspace` path of the software is `"C:\Users\{userName}\AppData\Roaming\mipmap-link\workspace"`. This directory stores task-related data and task output results. Click **Select Folder** to change the workspace directory.

@@ -1,25 +1,24 @@
 ---
-title: "地图信息"
+title: "Map Information"
 sidebar_position: 3
 ---
 ![](/img/en-img/Map/MapInfo/image-0.png)
 
-地图底部会显示一些信息
+Some information is displayed at the bottom of the map.
 
-### 1. 鼠标光标位置经度
-此处实时显示当前鼠标光标位置的经度，同时考虑地形、模型、瓦片，当光标处无实体时，该数据将保持为最后一次更新的值
+### 1. Longitude at mouse cursor
+Shows the real-time longitude of the current mouse cursor position, taking terrain, models and tiles into account. If no entity exists under the cursor, this value retains the last updated value.
 
-### 2. 鼠标光标位置纬度
-此处实时显示当前鼠标光标位置的纬度，同时考虑地形、模型、瓦片，当光标处无实体时，该数据将保持为最后一次更新的值
+### 2. Latitude at mouse cursor
+Shows the real-time latitude of the current mouse cursor position, taking terrain, models and tiles into account. If no entity exists under the cursor, this value retains the last updated value.
 
-### 3. 地图比例尺
-此处指示地图场景底部中央多少像素宽度代表地理多少米，小尺度场景内该比例尺也适用于地图场景上边缘
+### 3. Map scale bar
+Indicates how many meters on the ground correspond to the pixel width at the bottom center of the map scene. For small-scale scenes, this scale also applies to the top edge of the map scene.
 
 ![](/img/en-img/Map/MapInfo/image-1.png)
 
-### 4. 鼠标光标位置海拔高
-此处实时显示当前鼠标光标位置的海拔高（EGM96），同时考虑地形、模型、瓦片，当光标处无实体时，该数据将保持为最后一次更新的值
+### 4. Orthometric height at mouse cursor
+Shows the real-time orthometric height (EGM96) of the current mouse cursor position, taking terrain, models and tiles into account. If no entity exists under the cursor, this value retains the last updated value.
 
-### 5. 鼠标光标位置椭球高
-此处实时显示当前鼠标光标位置的椭球高，同时考虑地形、模型、瓦片，当光标处无实体时，该数据将保持为最后一次更新的值
-
+### 5. Ellipsoidal height at mouse cursor
+Shows the real-time ellipsoidal height of the current mouse cursor position, taking terrain, models and tiles into account. If no entity exists under the cursor, this value retains the last updated value.

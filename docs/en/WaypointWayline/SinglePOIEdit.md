@@ -1,24 +1,23 @@
 ---
-title: "单兴趣点编辑"
+title: "Single POI Edit"
 sidebar_position: 13
 ---
-### 1. 修改兴趣点位置
-兴趣点支持平移、调整高度，在地图上使用鼠标左建点击兴趣点，以此选中并激活兴趣点
+### 1. Modify POI position
+POIs support translation and height adjustment. Click the POI on the map with the left mouse button to select and activate it.
 
-在激活态下，鼠标左键按下兴趣点，再移动鼠标，即可平移兴趣度，鼠标左键松开时完成编辑
+When activated, press and hold the POI with the left mouse button and move the mouse to translate the POI. Release the left mouse button to finish editing.
 
-在激活态下，Alt+鼠标左键按下兴趣点，再移动鼠标，即可调整航点的高程，鼠标左键松开时完成编辑
+When activated, hold Alt + left mouse button on the POI and move the mouse to adjust the POI elevation. Release the left mouse button to finish editing.
 
-![](/img/en-img/WaypointRoute/SinglePOIEdit/image-0.gif)
+![](/img/en-img/WaypointWayline/SinglePOIEdit/image-0.gif)
 
-### 2. 兴趣点右键菜单
-在左侧面板选中某个兴趣点后右键
+### 2. POI right-click menu
+Select a POI in the left panel, then right-click.
 
-![](/img/en-img/WaypointRoute/SinglePOIEdit/image-0.png)
+![](/img/en-img/WaypointWayline/SinglePOIEdit/image-0.png)
 
-可删除兴趣点、将兴趣点快速应用到所有航点等
+You can delete the POI or quickly apply the POI to all waypoints.
 
-![](/img/en-img/WaypointRoute/SinglePOIEdit/image-1.png)
+![](/img/en-img/WaypointWayline/SinglePOIEdit/image-1.png)
 
-下方列表为航点列表，点击后可使指定航点应用此兴趣点
-
+The list below is the waypoint list. Click to apply this POI to the specified waypoint.

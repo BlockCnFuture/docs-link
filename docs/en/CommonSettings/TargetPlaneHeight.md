@@ -3,7 +3,7 @@ title: "Target Plane Height"
 sidebar_position: 13
 ---
 
-![](/img/en-img/SharedSets/GlobalShootHeight/0.png)
+![](/img/en-img/CommonSettings/TargetPlaneHeight/0.png)
 
 For ground survey flight missions without terrain follow enabled, a target plane must be set. The altitude of the target plane defaults to the altitude relative to the takeoff point that was first defined when creating the mission.
 

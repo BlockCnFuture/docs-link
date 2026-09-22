@@ -3,7 +3,7 @@ title: "Wayline Speed"
 sidebar_position: 8
 ---
 
-![](/img/en-img/SharedSets/PointSpeed/0.png)
+![](/img/en-img/CommonSettings/WaylineSpeed/0.png)
 
 This sets the wayline speed, also referred to as global wayline speed for waypoint missions. It defines the flight speed used by the aircraft when transitioning between consecutive waypoints along the flight path.
 

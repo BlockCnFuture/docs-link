@@ -1,14 +1,13 @@
 ---
-title: "航点_动作切换快捷键"
+title: "Waypoint Action Switch Shortcuts"
 sidebar_position: 8
 ---
-![](/img/en-img/WaypointRoute/WaypointActionSwitchShortcuts/image-0.png)
+![](/img/en-img/WaypointWayline/WaypointActionSwitchShortcuts/image-0.png)
 
-在航点航线编辑场景内，可通过点按/长按键盘上的up/down/left/right arrow键快速切换选中的动作、航点
+Within the wayline editing scene, press or hold the up/down/left/right arrow keys on the keyboard to quickly switch the selected action or waypoint.
 
-up/down arrow快速切换航点
+Up/down arrow keys: quickly switch waypoints
 
-left/right arrow快速切换动作
+Left/right arrow keys: quickly switch actions
 
-![](/img/en-img/WaypointRoute/WaypointActionSwitchShortcuts/image-0.gif)
-
+![](/img/en-img/WaypointWayline/WaypointActionSwitchShortcuts/image-0.gif)
